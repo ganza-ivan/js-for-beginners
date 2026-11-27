@@ -1,5 +1,4 @@
-# JavaScript for Beginners
+# Student Information
 
-**ganza kamana ivan**
-
-This repository contains beginner JavaScript practice files.
+**Name:** Munyemana Jabo Shalom  
+**Class:** L3 SOD B
