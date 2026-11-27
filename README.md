@@ -1,4 +1,3 @@
-# Student Information
+names;ganza kamana ivan
+class;l3 swd b
 
-**Name:** Munyemana Jabo Shalom  
-**Class:** L3 SOD B
